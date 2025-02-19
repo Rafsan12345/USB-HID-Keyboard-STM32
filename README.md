@@ -1,1 +1,1 @@
-# USB-HID-Keyboard-STM32
+I have developed a custom USB HID "keyboard" using the STM32.  The keyboard features four buttons (A, B, C, D), each mapped to specific keypress actions. When a button is pressed, the STM32 sends the corresponding key input to a connected computer via USB. This project utilizes the USB HID protocol, making it a plug-and-play device compatible with Windows and other operating systems. Ideal for custom shortcuts, macros, or specialized input applications.
